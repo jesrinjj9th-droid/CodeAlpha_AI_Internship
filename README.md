@@ -26,15 +26,13 @@ git clone https://github.com/jesrinjj9th-droid/CodeAlpha_AI_Internship.git
 Install dependencies:
 
 Bash
-pip install deep-translator pyperclip scikit-learn tensorflow music21
-Run a project:
+pip install deep-translator pyperclip scikit-learn 
 
 Bash
 python translator.py
 # OR
 python chatbot.py
-# OR
-python music_gen.py
+
 📽️ Video Demonstrations
 You can find the video explanations and live demos of these projects on my LinkedIn profile:
 https://www.linkedin.com/posts/jesrin-jacklina-j-dce-chennai-31b499375_ai-machinelearning-python-activity-7455262066858381312-uWUW?utm_source=share&utm_medium=member_android&rcm=ACoAAFzMV4cBSeY7NZnYyvdwevb8JPKSlhFPRMo
