@@ -16,13 +16,6 @@ Key Features: Text preprocessing, TF-IDF Vectorization, and Cosine Similarity fo
 
 Tech Stack: Python, Scikit-learn, Tkinter.
 
-3. Music Generation with AI
-A deep learning model that generates original music sequences based on existing MIDI data.
-
-Key Features: MIDI data processing, LSTM (Long Short-Term Memory) neural network architecture.
-
-Tech Stack: Python, TensorFlow/Keras, Music21, NumPy.
-
 🛠️ Installation & Setup
 To run these projects locally, follow these steps:
 
