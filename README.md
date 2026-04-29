@@ -28,14 +28,14 @@ Install dependencies:
 Bash
 pip install deep-translator pyperclip scikit-learn 
 
-Bash
+Run a project:
+```bash
 python translator.py
-# OR
 python chatbot.py
 
 📽️ Video Demonstrations
 You can find the video explanations and live demos of these projects on my LinkedIn profile:
-https://www.linkedin.com/posts/jesrin-jacklina-j-dce-chennai-31b499375_ai-machinelearning-python-activity-7455262066858381312-uWUW?utm_source=share&utm_medium=member_android&rcm=ACoAAFzMV4cBSeY7NZnYyvdwevb8JPKSlhFPRMo
-
+Task 1: [Language Translator Demo](https://www.linkedin.com/posts/jesrin-jacklina-j-dce-chennai-31b499375_ai-machinelearning-python-activity-7455262066858381312-uWUW)
+Task 2: [FAQ Chatbot Demo](https://www.linkedin.com/posts/jesrin-jacklina-j-dce-chennai-31b499375_codealpha-ai-python-activity-7455279026845421568-BrKW)
 Author,
 Jesrin Jacklina.J
